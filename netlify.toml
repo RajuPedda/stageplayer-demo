@@ -1,0 +1,5 @@
+[[headers]]
+for = "App.js"
+[headers.values]
+Access-Control-Allow-Origin = "*"
+Access-Control-Allow-Methods = "*"
